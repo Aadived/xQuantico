@@ -1,2 +1,2 @@
 # xQuantico
- A prograing language that seems to have travelled from future 😱
+ A programming language that seems to have travelled from future 😱

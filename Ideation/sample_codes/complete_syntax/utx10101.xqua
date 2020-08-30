@@ -1,0 +1,47 @@
+module mymod
+
+import (
+    math,
+    datastructures as DS from lib,
+    xQLib as XQL
+)
+
+function myfunc(param) type {
+
+    /**
+    Block Comment:
+    can be used for making docs too
+    can type using markdown also here.
+    **/
+    // Line Comment
+    
+    /**
+    Types:
+      int, string, float,
+      ! -> signifies type to decided on runtime
+      . -> any type
+    **/
+    
+    // array declaration
+    arr1 := [!]  // Method1
+    
+    arr2 := [string,[int]]
+    
+    var (
+    
+    x : int;
+    y : float;
+    
+    )
+    
+    #[make](
+       mut x,y
+       
+    )
+    
+    for(i :=1
+    
+    while(condition) {
+    }
+    
+}

@@ -1,0 +1,12 @@
+var (
+  num:int = 3
+  x : int = 4;
+  st : str
+  game:!;
+)
+
+module main
+
+fn main(){
+  return num+x;
+}

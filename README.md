@@ -1,11 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/InTacht-OSS-Foundation/xQuantico"><img src="https://github.com/InTacht-OSS-Foundation/xQuantico/blob/master/resources/xQLogo.jpg" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/InTacht-OSS-Foundation/xQuantico"><img src="https://github.com/InTacht-OSS-Foundation/xQuantico/blob/master/resources/xQLogo.jpg" alt="Project - xQuantico"></a>
 </h1>
 
 <h4 align="center">Project - xQuantico</h4>
 <h6 align="center">The Only Programming Language, You Need</h6>
 ---
+
 # About
 Introducing you to Project xQuantico it is not just another Hobby or Toy project focused on showing the steps of compiler development. It is a serious project that we wish to turn into a mainstream general purpose programming language for Classical and Quantum Processors.
 

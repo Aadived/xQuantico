@@ -1,10 +1,13 @@
 <h1 align="center">
   <br>
+  <span>
   <a href="https://github.com/InTacht-OSS-Foundation/xQuantico"><img src="https://github.com/InTacht-OSS-Foundation/xQuantico/blob/master/resources/xQLogo.jpg" alt="Project - xQuantico" height="50%" width="50%"></a>
+  </span>
+  <span>
+    <h4 align="center">Project - xQuantico</h4>
+    <h6 align="center">The Only Programming Language, You Need</h6>
+  </span>
 </h1>
-
-<h4 align="center">Project - xQuantico</h4>
-<h6 align="center">The Only Programming Language, You Need</h6>
 ---
 
 # About

@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/InTacht-OSS-Foundation/xQuantico"><img src="https://github.com/InTacht-OSS-Foundation/xQuantico/blob/master/resources/xQLogo.jpg" alt="Project - xQuantico"></a>
+  <a href="https://github.com/InTacht-OSS-Foundation/xQuantico"><img src="https://github.com/InTacht-OSS-Foundation/xQuantico/blob/master/resources/xQLogo.jpg" alt="Project - xQuantico" height="50%" width="50%"></a>
 </h1>
 
 <h4 align="center">Project - xQuantico</h4>
